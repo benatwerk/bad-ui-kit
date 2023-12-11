@@ -17,7 +17,8 @@
     "paths": {
       "@bad-ui-kit/age-picker": ["age-picker/src/index.ts"],
       "@bad-ui-kit/input": ["input/src/index.ts"],
-      "@bad-ui-kit/phone-number-slider": ["phone-number-slider/src/index.ts"]
+      "@bad-ui-kit/phone-number-slider": ["phone-number-slider/src/index.ts"],
+      "@bad-ui-kit/shared-assets": ["shared-assets/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
